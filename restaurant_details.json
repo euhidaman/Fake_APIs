@@ -46,6 +46,17 @@
     },
     {
       "id": 5,
+      "hotelName": "Just Bake",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?cake",
+      "hotelType": "Bakery, Desserts",
+      "hotelRating": "4.3",
+      "discount": "₹400 OFF",
+      "time": "30 min",
+      "price": "₹250 for One",
+      "description": "A common burger in the United States"
+    },
+    {
+      "id": 6,
       "hotelName": "Wow Momo",
       "hotelUrl": "https://source.unsplash.com/random/300×300/?dumplings",
       "hotelType": "South India, Veg",
@@ -56,7 +67,7 @@
       "description": "A common burger in the United States"
     },
     {
-      "id": 6,
+      "id": 7,
       "hotelName": "Corner House Ice Creams",
       "hotelUrl": "https://source.unsplash.com/random/300×300/?ice-cream",
       "hotelType": "South India, Veg",
@@ -67,7 +78,7 @@
       "description": "A common burger in the United States"
     },
     {
-      "id": 7,
+      "id": 8,
       "hotelName": "Behrouz Biryani",
       "hotelUrl": "https://source.unsplash.com/random/300×300/?kebabs-biryani",
       "hotelType": "South India, Veg",
