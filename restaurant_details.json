@@ -99,5 +99,17 @@
       "price": "₹100 for One",
       "description": "A common burger in the United States"
     }
+    ,
+    {
+      "id": 10,
+      "hotelName": "EatFit",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?paneer",
+      "hotelType": "Cafe, Beverages",
+      "hotelRating": "4.6",
+      "discount": "₹200 OFF",
+      "time": "30 min",
+      "price": "₹150 for One",
+      "description": "A common burger in the United States"
+    }
   ]
 }
