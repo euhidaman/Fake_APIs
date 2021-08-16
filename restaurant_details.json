@@ -98,17 +98,27 @@
       "time": "20 min",
       "price": "₹100 for One",
       "description": "A common burger in the United States"
-    }
-    ,
+    },
     {
       "id": 10,
       "hotelName": "EatFit",
       "hotelUrl": "https://source.unsplash.com/random/300×300/?paneer",
-      "hotelType": "Cafe, Beverages",
-      "hotelRating": "4.6",
+      "hotelType": "North Indian, Lunch",
+      "hotelRating": "4.2",
       "discount": "₹200 OFF",
       "time": "30 min",
       "price": "₹150 for One",
+      "description": "A common burger in the United States"
+    },
+    {
+      "id": 11,
+      "hotelName": "Asha Sweets",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?sweets",
+      "hotelType": "Desserts, Sweets",
+      "hotelRating": "4.5",
+      "discount": "₹50 OFF",
+      "time": "15 min",
+      "price": "₹100 for One",
       "description": "A common burger in the United States"
     }
   ]
