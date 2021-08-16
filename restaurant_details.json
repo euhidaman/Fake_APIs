@@ -87,6 +87,17 @@
       "time": "10 min",
       "price": "₹100 for One",
       "description": "A common burger in the United States"
+    },
+    {
+      "id": 9,
+      "hotelName": "Starbucks Coffee",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?coffee",
+      "hotelType": "Cafe, Beverages",
+      "hotelRating": "4.6",
+      "discount": "₹150 OFF",
+      "time": "20 min",
+      "price": "₹100 for One",
+      "description": "A common burger in the United States"
     }
   ]
 }
