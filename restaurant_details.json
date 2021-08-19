@@ -120,6 +120,17 @@
       "time": "15 min",
       "price": "₹100 for One",
       "description": "A common burger in the United States"
+    },
+    {
+      "id": 12,
+      "hotelName": "Punjabi Dhaba",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?naan",
+      "hotelType": "North Indian, Chinese, Mughal",
+      "hotelRating": "4.1",
+      "discount": "₹150 OFF",
+      "time": "45 min",
+      "price": "₹300 for One",
+      "description": "A common burger in the United States"
     }
   ]
 }
