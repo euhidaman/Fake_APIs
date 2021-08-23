@@ -131,6 +131,17 @@
       "time": "45 min",
       "price": "₹300 for One",
       "description": "A common burger in the United States"
+    },
+    {
+      "id": 13,
+      "hotelName": "Subway",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?sandwich",
+      "hotelType": "Healthy Food, Sandwich, Salad",
+      "hotelRating": "4.0",
+      "discount": "₹75 OFF",
+      "time": "45 min",
+      "price": "₹250 for One",
+      "description": "A Healthy food for breakfast"
     }
   ]
 }
