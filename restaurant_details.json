@@ -139,9 +139,20 @@
       "hotelType": "Healthy Food, Sandwich, Salad",
       "hotelRating": "4.0",
       "discount": "₹75 OFF",
-      "time": "45 min",
+      "time": "30 min",
       "price": "₹250 for One",
       "description": "A Healthy food for breakfast"
+    },
+    {
+      "id": 14,
+      "hotelName": "The Roll Company - TRC",
+      "hotelUrl": "https://source.unsplash.com/random/300×300/?food-roll",
+      "hotelType": "Rolls, Salad",
+      "hotelRating": "4.2",
+      "discount": "₹75 OFF",
+      "time": "45 min",
+      "price": "₹100 for One",
+      "description": "Tasty Rolls for your apetite"
     }
   ]
 }
