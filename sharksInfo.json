@@ -1,0 +1,184 @@
+{
+    "sharksInfo": [
+        {
+            "id": 0,
+            "sharkName": "Shortfin Mako Shark",
+            "latinName": "Isurus oxyrinchus",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shortfin_mako_shark.jpg?itok=nSHjFk3H",
+            "description": "A large, predatory shark that lives in the open ocean",
+            "extinction": "Endangered",
+            "trivia": "With top speeds of 45 miles per hour (74 kilometers per hour), the shortfin mako is the fastest shark and is one of the fastest fishes on the planet."
+        },
+        {
+            "id": 1,
+            "sharkName": "Whale Shark",
+            "latinName": "Rhincodon typus",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/whale_shark_5.jpg?itok=J1Qz-4HT",
+            "description": "A graceful, harmless shark with white spots all over its body",
+            "extinction": "Endangered",
+            "trivia": "The largest shark is the whale shark (Rhincodon typus), which can grow to 60 feet (20 meters) long."
+        },
+        {
+            "id": 2,
+            "sharkName": "Spiny Dogfish",
+            "latinName": "Squalus acanthias",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_77472286.jpg?itok=3EGDKsWd",
+            "description": "Sharks with a slender body and pointed snout.",
+            "extinction": "Vulnerable",
+            "trivia": "The dogfish family are so named because fishermen have observed these species chasing down smaller fish in dog-like packs."
+        },
+        {
+            "id": 3,
+            "sharkName": "Great White Shark",
+            "latinName": "Carcharodon carcharias",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_366230828_0.jpg?itok=tgLOAapU",
+            "description": "Aggressive sharks with an extremely muscular body, capable of chasing down some of the fastest swimmers in the ocean.",
+            "extinction": "Vulnerable",
+            "trivia": "One of the three species that are responsible for most human attacks."
+        },
+        {
+            "id": 4,
+            "sharkName": "Tiger Shark",
+            "latinName": "Galeocerda cuvier",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/tiger_shark_0.jpg?itok=wbaPzwMh",
+            "description": "Tiger sharks are aggressive predators, famous for eating just about anything they find or are able to capture.",
+            "extinction": "Near Threatened",
+            "trivia": "Tiger sharks can grow up to 18 feet (5.5 m) long and 2,000 pounds (900 kg), making it one of the largest shark species."
+        },
+        {
+            "id": 5,
+            "sharkName": "Bull Shark",
+            "latinName": "Carcharhinus leucas",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_107332190.jpg?itok=iIHVcWVD",
+            "description": "The bull shark is a predatory species that lives in coastal seas and is the shark with the best ability to move into freshwaters",
+            "extinction": "Near Threatened",
+            "trivia": "One of the three species that are responsible for most human attacks."
+        },
+        {
+            "id": 6,
+            "sharkName": "Basking sharks",
+            "latinName": "Cetorhinus maximus",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/basking_shark.jpg?itok=kyHesCTC",
+            "description": "Despite being the second largest fish in the world, basking sharks are filter feeders that eat tiny, planktonic prey.",
+            "extinction": "Endangered",
+            "trivia": "Basking sharks have massive livers that make up 25 percent of their body weight."
+        },
+        {
+            "id": 7,
+            "sharkName": "Blacktip shark",
+            "latinName": "Carcharhinus limbatus",
+            "sharkImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Carcharhinus_limbatus_%282%29.jpg/1200px-Carcharhinus_limbatus_%282%29.jpg",
+            "description": "The blacktip shark is a species of requiem shark, and part of the family Carcharhinidae.",
+            "extinction": "Near Threatened",
+            "trivia": " Blacktip sharks have an excellent sense of smell and can detect one part of fish flesh in 10 billion parts of seawater."
+        },
+        {
+            "id": 8,
+            "sharkName": "Nurse shark",
+            "latinName": "Ginglymostoma cirratum",
+            "sharkImage": "https://europe.oceana.org/sites/default/files/nurse_sharks.jpg",
+            "description": "Nurse sharks are equipped with long barbells on their snout to locate benthic prey.",
+            "extinction": "Vulnerable",
+            "trivia": "Although their meat is not widely commercialized, nurse sharks fall victim to bycatch in gillnets and longlines."
+        },
+        {
+            "id": 9,
+            "sharkName": "Zebra Shark",
+            "latinName": "Stegostoma fasciatum",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_rich_carey_zebra_shark.jpg?itok=GBKKxNXL",
+            "description": "Zebra sharks are usually found over sand near coral and rocky reefs as deep as 203 feet (62 m).",
+            "extinction": "Endangered",
+            "trivia": " Zebra sharks can squeeze into narrow crevices to search for food, but they’re also very lethargic and spend most of their time resting on the seafloor."
+        },
+        {
+            "id": 10,
+            "sharkName": "Scalloped Hammerhead Shark",
+            "latinName": "Sphyrna lewini",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/noaa_scalloped_hammerhead_shark.jpg?itok=bdmwNy5J",
+            "description": "The scalloped hammerhead is an active predator. The shape of its head allows the scalloped hammerhead to more successfully locate its prey.",
+            "extinction": "Critically Endangered",
+            "trivia": "Male scalloped hammerhead sharks can grow to nearly 6 feet in length and weigh up to 64 pounds. Females are larger, growing to more than 8 feet and weighing 80 pounds."
+        },
+        {
+            "id": 11,
+            "sharkName": "Goblin Shark",
+            "latinName": "Mitsukurina owstoni",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/46_0_0.jpg?itok=XNEnZ5Lu",
+            "description": "A shark with a long, prominent snout covered with special sensing organs that help it to sense electric fields in the deep, dark water.",
+            "extinction": "Least Concern",
+            "trivia": "The Goblin Shark is sometimes called the Vampire Shark, because it avoids the light by living deep in the sea."
+        },
+        {
+            "id": 12,
+            "sharkName": "Tope shark (School shark)",
+            "latinName": "Galeorhinus galeus",
+            "sharkImage": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Galeorhinus_galeus_SI3.jpg",
+            "description": "School sharks have slender bodies with grey or brown backs and upper sides, and white bellies. The snout is long and the underside near the tip is often translucent. The second dorsal fin is smaller than the first.",
+            "extinction": "Critically Endangered",
+            "trivia": "They tend to hang out around the coast rather than the open ocean, like the mako shark or the whale shark."
+        },
+        {
+            "id": 13,
+            "sharkName": "Brownbanded bamboo shark",
+            "latinName": "Chiloscyllium punctatum",
+            "sharkImage": "https://www.thesprucepets.com/thmb/IDhLwxspbnhIm4qMdOvm9DLPP_E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/128117175-56a81f175f9b58b7d0f0dba7.jpg",
+            "description": "Impressive cat sharks sport barbels around their noses and these markings are the source of their name.",
+            "extinction": "Near Threatened",
+            "trivia": "Due to its small size and amazing pattern, it is a perfect choice for a pet shark."
+        },
+        {
+            "id": 14,
+            "sharkName": "Spotted Wobbegong",
+            "latinName": "Orectolobus maculatus",
+            "sharkImage": "https://www.marinebio.org/wp-content/uploads/2017/05/1-12.jpg",
+            "description": "The spotted wobbegong is a carpet shark in the family Orectolobidae, endemic to Australia. It is a large, robust species, typically reaching 150–180 centimetres in length.",
+            "extinction": "Least Concern",
+            "trivia": "The spotted wobbegong possesses a spiracle, which allows it to breathe while remaining motionless on the bottom."
+        },
+        {
+            "id": 15,
+            "sharkName": "Port Jackson Shark",
+            "latinName": "Heterodontus portusjacksoni",
+            "sharkImage": "https://www.aquariumdomain.com/images/speciesProfiles/PortJacksonShark_cover.jpg",
+            "description": "This medium size Australian shark has a blunt head with a small mouth and prominent crests above its eyes.",
+            "extinction": "Least Concern",
+            "trivia": "Port Jackson sharks are normally found in tropical and temperate waters in depths normally less than 100m."
+        },
+        {
+            "id": 16,
+            "sharkName": "Kitefin shark",
+            "latinName": "Dalatias licha",
+            "sharkImage": "http://sharkfactsforkids.weebly.com/uploads/1/8/6/9/18696762/1369601674.jpg",
+            "description": "This blunt-faced shark has small, lobed fins and large eyes, best suited for its deep-water habitat.",
+            "extinction": "Vulnerable",
+            "trivia": "Kitefin shark can take bites out of animals larger than itself."
+        },
+        {
+            "id": 17,
+            "sharkName": "Lemon Shark",
+            "latinName": "Negaprion brevirostris",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_37096219.jpg?itok=YDdZAJbI",
+            "description": "Recognizable by the distinct yellow hue of its skin, the lemon shark occupies coral keys and mangrove forests along the Atlantic Ocean and parts of the Pacific.",
+            "extinction": "Vulnerable",
+            "trivia": "Occasionally, this species will also be observed eating seabirds."
+        },
+        {
+            "id": 18,
+            "sharkName": "Pacific Angel Shark",
+            "latinName": "Squatina californica",
+            "sharkImage": "https://oceana.org/sites/default/files/styles/lightbox/public/shutterstock_mugobbara_pacific_angel_shark.jpg?itok=aA9JuBC_",
+            "description": "Pacific angel sharks are ambush predators that patiently wait for prey species with broad pectoral fins and relatively large mouths.",
+            "extinction": "Near Threatened",
+            "trivia": "Despite being a shark, its unique, flattened appearance makes them resemble rays."
+        },
+        {
+            "id": 19,
+            "sharkName": "Megalodon",
+            "latinName": "Otodus megalodon",
+            "sharkImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/meg_1280p.jpg?itok=teBEKXd8",
+            "description": "Megalodon is a species that lived around 23 to 3.6 million years ago. It is regarded as one of the largest and most powerful predators to have ever lived.",
+            "extinction": "Extinct",
+            "trivia": "Estimates suggest it grew to between 15 and 18 metres in length, three times longer than the largest recorded great white shark. It makes megalodon not only the biggest shark in the world, but one of the largest fish ever to exist."
+        }
+    ]
+  }
