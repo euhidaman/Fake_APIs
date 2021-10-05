@@ -1,0 +1,123 @@
+{
+    "talesGames": [
+        {
+            "id": 0,
+            "title": "Tales of Phantasia",
+            "yearReleased": 1995,
+            "mainCharacter": "Cress Albane",
+            "playableCharacterCount": 6
+        },
+        {
+            "id": 1,
+            "title": "Tales of Destiny",
+            "yearReleased": 1997,
+            "mainCharacter": "Stahn Aileron",
+            "playableCharacterCount": 10
+        },
+        {
+            "id": 2,
+            "title": "Tales of Eternia",
+            "yearReleased": 2000,
+            "mainCharacter": "Reid Hershel",
+            "playableCharacterCount": 7
+        },
+        {
+            "id": 3,
+            "title": "Tales of Destiny 2",
+            "yearReleased": 2002,
+            "mainCharacter": "Kyle Dunamis",
+            "playableCharacterCount": 6
+        },
+        {
+            "id": 4,
+            "title": "Tales of Symphonia",
+            "yearReleased": 2003,
+            "mainCharacter": "Lloyd Irving",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 5,
+            "title": "Tales of Rebirth",
+            "yearReleased": 2004,
+            "mainCharacter": "Veigue Lungber",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 6,
+            "title": "Tales of Legendia",
+            "yearReleased": 2005,
+            "mainCharacter": "Seriel Coolidge",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 7,
+            "title": "Tales of the Abyss",
+            "yearReleased": 2005,
+            "mainCharacter": "Luke fon Fabre",
+            "playableCharacterCount": 6
+        },
+        {
+            "id": 8,
+            "title": "Tales of Innocence",
+            "yearReleased": 2007,
+            "mainCharacter": "Ruca Milde",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 9,
+            "title": "Tales of Vesperia",
+            "yearReleased": 2008,
+            "mainCharacter": "Yuri Lowell",
+            "playableCharacterCount": 9
+        },
+        {
+            "id": 10,
+            "title": "Tales of Hearts",
+            "yearReleased": 2008,
+            "mainCharacter": "Kor Meteor",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 11,
+            "title": "Tales of Graces",
+            "yearReleased": 2009,
+            "mainCharacter": "Asbel Lhant",
+            "playableCharacterCount": 7
+        },
+        {
+            "id": 12,
+            "title": "Tales of Xillia",
+            "yearReleased": 2011,
+            "mainCharacter": "Jude Mathis",
+            "playableCharacterCount": 6
+        },
+        {
+            "id": 13,
+            "title": "Tales of Xillia 2",
+            "yearReleased": 2012,
+            "mainCharacter": "Ludger Kresnik",
+            "playableCharacterCount": 11
+        },
+        {
+            "id": 14,
+            "title": "Tales of Zestiria",
+            "yearReleased": 2016,
+            "mainCharacter": "Sorey",
+            "playableCharacterCount": 8
+        },
+        {
+            "id": 15,
+            "title": "Tales of Berseria",
+            "yearReleased": 2016,
+            "mainCharacter": "Velvet Crowe",
+            "playableCharacterCount": 6
+        },
+        {
+            "id": 16,
+            "title": "Tales of Arise",
+            "yearReleased": 2021,
+            "mainCharacter": "Alphen",
+            "playableCharacterCount": 6
+        },
+    ]
+  }
