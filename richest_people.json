@@ -1,0 +1,94 @@
+{
+  "richest": [
+    {
+      "id": 1,
+      "name": "Jeff Bezos",
+      "age": 57,
+      "residence": "Seattle",
+      "company": "Amazon",
+      "Ownership_Stake": "11%",
+      "Net_Worth": "$177 billion"
+    },
+    {
+      "id": 2,
+      "name": "Elon Musk",
+      "age": 50,
+      "residence": "Austin, Texas",
+      "company": "Tesla",
+      "Ownership_Stake": "20%",
+      "Net_Worth": "$151 billion"
+    },
+    {
+      "id": 3,
+      "name": "Bernard Arnault",
+      "age": 72,
+      "residence": "Paris",
+      "company": "LVMH",
+      "Ownership_Stake": "46.84%",
+      "Net_Worth": "$150 billion"
+    },
+    {
+      "id": 4,
+      "name": "Bill Gates",
+      "age": 65,
+      "residence": "Medina, Washington",
+      "company": "Microsoft",
+      "Ownership_Stake": "1.3%",
+      "Net_Worth": "$124 billion"
+    },
+    {
+      "id": 5,
+      "name": "Mark Zuckerberg",
+      "age": 37,
+      "residence": "Palo Alto, CA",
+      "company": "Facebook",
+      "Ownership_Stake": "13%",
+      "Net_Worth": "$97 billion"
+    },
+    {
+      "id": 6,
+      "name": "Warren Buffett",
+      "age": 91,
+      "residence": "Omaha, Nebraska",
+      "company": "Berkshire Hathaway",
+      "Ownership_Stake": "38%",
+      "Net_Worth": "$96 billion"
+    },
+    {
+      "id": 7,
+      "name": "Larry Ellison",
+      "age": 77,
+      "residence": "Lanai, Hawaii",
+      "company": "Oracle",
+      "Ownership_Stake": "35.4%",
+      "Net_Worth": "$93 billion"
+    },
+    {
+      "id": 8,
+      "name": "Larry Page",
+      "age": 48,
+      "residence": "Palo Alto, CA",
+      "company": "Alphabet",
+      "Ownership_Stake": "6%",
+      "Net_Worth": "$91.5 billion"
+    },
+    {
+      "id": 9,
+      "name": "Sergey Brin",
+      "age": 48,
+      "residence": "Los Altos, CA",
+      "company": "Alphabet",
+      "Ownership_Stake": "5%",
+      "Net_Worth": "$89 billion"
+    },
+    {
+      "id": 10,
+      "name": "Mukesh Ambani",
+      "age": 64,
+      "residence": "Mumbai, India",
+      "company": "Reliance Industries",
+      "Ownership_Stake": "42%",
+      "Net_Worth": "$84.5 billion"
+    }
+  ]
+}
