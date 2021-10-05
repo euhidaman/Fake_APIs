@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/euhidaman/Fake_APIs">
-        <img src="https://www.cloudways.com/blog/wp-content/uploads/Rest-API-introduction.jpg" >
+        <img src="https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png" >
     </a>
 </p>
 
