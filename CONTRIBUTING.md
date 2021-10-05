@@ -4,7 +4,7 @@ Contribution Guidlines
 
 Contributing to Fake_APIs should be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, new docs as well as updates, and more.
 
-Please note we have a [code of conduct](https://github.com/euhidaman/Fake_APIs/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the repository.
+Please note we have a [code of conduct](https://github.com/euhidaman/Fake_APIs/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the repository.
 
 ## How to Open a Pull Request
 
