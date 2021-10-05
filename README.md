@@ -52,7 +52,7 @@ You are free to select any topic such as Dogs, Cats, Projects, Cars, Foods etc. 
 
 ## How to contribute?
 
-Refer to [Contributing Guidelines](https://github.com/euhidaman/Fake_APIs/blob/master/CONTRIBUTING.md) to learn how to setup the repository.
+Refer to [Contributing Guidelines](https://github.com/euhidaman/Fake_APIs/blob/main/CONTRIBUTING.md) to learn how to setup the repository.
 
 Once you are ready with the setup, follow the below guidelines:
 1. Create a file inside this project repository with the Topic Name in snake case, i.e., if your topic is **Car Details**, the file name should be **car_details.json**.
