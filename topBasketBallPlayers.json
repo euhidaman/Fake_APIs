@@ -1,0 +1,41 @@
+{
+  "topBasketBallPlayers": [
+    {
+      "id": 1,
+      "name" : "LeBron James",
+      "height" : "6 ft 9 in",
+      "weight" : "113 kg",
+      "wiki_link" : "https://en.wikipedia.org/wiki/LeBron_James"
+    },
+    {
+      "id": 2,
+      "name" : "Michael Jordan",
+      "height" : "6 ft 6 in",
+      "weight" : "98 kg",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Michael_Jordan"
+
+
+    },
+    {
+      "id": 3,
+      "name" : "Magic Johnson",
+      "height" : "6 ft 9 in",
+      "weight" : "100 kg",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Magic_Johnson"
+    },
+    {
+      "id": 4,
+      "name" : "Wilt Chamberlain",
+      "height" : "7 ft 1 in",
+      "weight" : "125 kg",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Wilt_Chamberlain"
+    },
+    {
+      "id": 5,
+      "name" : "Oscar Robertson",
+      "height" : "6 ft 5 in",
+      "weight" : "93 kg",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Oscar_Robertson"
+    }
+  ]
+}
