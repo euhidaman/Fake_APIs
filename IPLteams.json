@@ -1,0 +1,135 @@
+{
+  "IPLteams": [
+    {
+      "id": 1,
+      "name" : "Chennai Super Kings",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 3,
+      "finals" : 8,
+      "total_seasons":12,
+      "wikipedia":"https://en.wikipedia.org/wiki/Chennai_Super_Kings"
+    },
+    {
+      "id": 2,
+      "name" : "Mumbai Indians",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 5,
+      "finals" : 6,
+      "total_seasons":14,
+      "wikipedia":"https://en.wikipedia.org/wiki/Mumbai_Indians"
+
+    },
+    {
+      "id": 3,
+      "name" : "Royal Challengers Bangalore",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 0,
+      "finals" : 3,
+      "total_seasons":14,
+      "wikipedia":"https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore"
+    },
+    {
+      "id": 4,
+      "name" : "Rajasthan Royals",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 1,
+      "finals" : 1,
+      "total_seasons":12,
+      "wikipedia":"https://en.wikipedia.org/wiki/Rajasthan_Royals"
+    },
+    {
+      "id": 5,
+      "name" : "Kolkata Knight Riders",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 2,
+      "finals" : 2,
+      "total_seasons":14,
+      "wikipedia":"https://en.wikipedia.org/wiki/Kolkata_Knight_Riders"
+    },
+    {
+      "id": 6,
+      "name" : "Sunrisers Hyderabad",
+      "first_appearance" : 2013,
+      "last_appearance" : 2021,
+      "champions" : 1,
+      "finals" : 2,
+      "total_seasons":9,
+      "wikipedia":"https://en.wikipedia.org/wiki/Sunrisers_Hyderabad"
+    },
+    {
+      "id": 7,
+      "name" : "Delhi Capitals",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 0,
+      "finals" : 1,
+      "total_seasons":14,
+      "wikipedia":"https://en.wikipedia.org/wiki/Delhi_Capitals"
+    },
+    {
+      "id": 8,
+      "name" : "Punjab Kings",
+      "first_appearance" : 2008,
+      "last_appearance" : 2021,
+      "champions" : 0,
+      "finals" : 1,
+      "total_seasons":14,
+      "wikipedia":"https://en.wikipedia.org/wiki/Punjab_Kings"
+    },
+    {
+      "id": 9,
+      "name" : "Kochi Tuskers Kerala",
+      "first_appearance" : 2011,
+      "last_appearance" : 2011,
+      "champions" : 0,
+      "finals" : 0,
+      "total_seasons":1,
+      "wikipedia":"https://en.wikipedia.org/wiki/Kochi_Tuskers_Kerala"
+    },
+    {
+      "id": 10,
+      "name" : "Deccan Chargers",
+      "first_appearance" : 2008,
+      "last_appearance" : 2012,
+      "champions" : 1,
+      "finals" : 1,
+      "total_seasons":5,
+      "wikipedia":"https://en.wikipedia.org/wiki/Deccan_Chargers"
+    },
+    {
+      "id": 11,
+      "name" : "Pune Warriors India",
+      "first_appearance" : 2011,
+      "last_appearance" : 2013,
+      "champions" : 0,
+      "finals" : 0,
+      "total_seasons":3,
+      "wikipedia":"https://en.wikipedia.org/wiki/Pune_Warriors_India"
+    },
+    {
+      "id": 12,
+      "name" : "Rising Pune Supergiant",
+      "first_appearance" : 2016,
+      "last_appearance" : 2017,
+      "champions" : 0,
+      "finals" : 1,
+      "total_seasons":2,
+      "wikipedia":"https://en.wikipedia.org/wiki/Rising_Pune_Supergiant"
+    },
+    {
+      "id": 13,
+      "name" : "Gujarat Lions",
+      "first_appearance" : 2016,
+      "last_appearance" : 2017,
+      "champions" : 0,
+      "finals" : 0,
+      "total_seasons":2,
+      "wikipedia":"https://en.wikipedia.org/wiki/Gujarat_Lions"
+    }
+  ]
+}
