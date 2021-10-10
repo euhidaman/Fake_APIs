@@ -35,6 +35,41 @@
       "height" : "1.86 m",
       "age" : "39",
       "wiki_link" : "https://en.wikipedia.org/wiki/Kaká"
+    },
+    {
+      "id": 6,
+      "name" : "Mohamed Salah",
+      "height" : "1.75 m",
+      "age" : "29",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Mohamed_Salah"
+    },
+    {
+      "id": 7,
+      "name" : "Kylian Mbappé",
+      "height" : "1.78 m",
+      "age" : "22",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+    },
+    {
+      "id": 8,
+      "name" : "Robert Lewandowski",
+      "height" : "1.85 m",
+      "age" : "33",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Robert_Lewandowski"
+    },
+    {
+      "id": 9,
+      "name" : "N'Golo Kanté",
+      "height" : "1.68 m",
+      "age" : "30",
+      "wiki_link" : "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9"
+    },
+    {
+      "id": 10,
+      "name" : "Kevin De Bruyne",
+      "height" : "1.81 m",
+      "age" : "30",
+      "wiki_link" : "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
     }
   ]
 }
