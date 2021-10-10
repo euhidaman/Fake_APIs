@@ -1,0 +1,160 @@
+{
+   "countries":[
+      {
+         "country":"Afghanistan",
+         "dish":"Kabuli Palaw",
+         "capital":"Kabul",
+         "currency_name":"Afghanistan Afghani"
+      },
+      {
+         "country":"Albania",
+         "dish":"Tavë kosi",
+         "capital":"Tirana",
+         "currency_name":"Albanian Lek"
+      },
+      {
+         "country":"Algeria",
+         "dish":"Couscous",
+         "capital":"Alger",
+         "currency_name":"Algerian Dinar"
+      },
+      {
+         "country":"American Samoa",
+         "dish":null,
+         "capital":"Fagatogo",
+         "currency_name":"US Dollar"
+      },
+      {
+         "country":"Andorra",
+         "dish":null,
+         "capital":"Andorra la Vella",
+         "currency_name":"Euro"
+      },
+      {
+         "country":"Angola",
+         "dish":"Moamba de galinha",
+         "capital":"Luanda",
+         "currency_name":"Angolan Kwanza"
+      },
+      {
+         "country":"Anguilla",
+         "dish":null,
+         "capital":"The Valley",
+         "currency_name":"East Caribbean Dollar"
+      },
+      {
+         "country":"Antarctica",
+         "dish":null,
+         "capital":null,
+         "currency_name":"East Caribbean Dollar"
+      },
+      {
+         "country":"Antigua and Barbuda",
+         "dish":"Pepperpot, Fungee",
+         "capital":"Saint John's",
+         "currency_name":"East Caribbean Dollar"
+      },
+      {
+         "country":"Argentina",
+         "dish":"Asado",
+         "capital":"Buenos Aires",
+         "currency_name":"Argentine Peso"
+      },
+      {
+         "country":"Armenia",
+         "dish":"Harissa, Dolma, Khorovats",
+         "capital":"Yerevan",
+         "currency_name":"Armenian Dram"
+      },
+      {
+         "country":"Aruba",
+         "dish":"Keshi yena",
+         "capital":"Oranjestad",
+         "currency_name":"Aruban Guilder"
+      },
+      {
+         "country":"Australia",
+         "dish":"Meat pie,Roast lamb",
+         "capital":"Canberra",
+         "currency_name":"Australian Dollar"
+      },
+      {
+         "country":"Austria",
+         "dish":"Wiener schnitzel, Tafelspitz",
+         "capital":"Wien",
+         "currency_name":"Euro"
+      },
+      {
+         "country":"Azerbaijan",
+         "dish":"Dolma",
+         "capital":"Baku",
+         "currency_name":"Azerbaijan New Manat"
+      },
+      {
+         "country":"Bahamas",
+         "dish":"Crack conch with peas and rice",
+         "capital":"Nassau",
+         "currency_name":"Bahamian Dollar"
+      },
+      {
+         "country":"Bahrain",
+         "dish":"Machboos",
+         "capital":"al-Manama",
+         "currency_name":"Bahraini Dinar"
+      },
+      {
+         "country":"Bangladesh",
+         "dish":"Rice, Fish, Chicken Korma",
+         "capital":"Dhaka",
+         "currency_name":"Bangladeshi Taka"
+      },
+      {
+         "country":"Barbados",
+         "dish":"Cou-Cou and Flying Fish",
+         "capital":"Bridgetown",
+         "currency_name":"Barbados Dollar"
+      },
+      {
+         "country":"Belarus",
+         "dish":"Draniki",
+         "capital":"Minsk",
+         "currency_name":"Belarussian Ruble"
+      },
+      {
+         "country":"Belgium",
+         "dish":"Moules-frites",
+         "capital":"Brussel",
+         "currency_name":"Euro"
+      },
+      {
+         "country":"Belize",
+         "dish":"Boil up",
+         "capital":"Belmopan",
+         "currency_name":"Belize Dollar"
+      },
+      {
+         "country":"Benin",
+         "dish":null,
+         "capital":"Porto-Novo",
+         "currency_name":"CFA Franc BCEAO"
+      },
+      {
+         "country":"Bermuda",
+         "dish":"Bermuda fish chowder",
+         "capital":"Hamilton",
+         "currency_name":"Bermudian Dollar"
+      },
+      {
+         "country":"Bhutan",
+         "dish":"Ema datshi",
+         "capital":"Thimphu",
+         "currency_name":"Bhutan Ngultrum"
+      },
+      {
+         "country":"Bolivia",
+         "dish":"Salteñas",
+         "capital":"La Paz",
+         "currency_name":"Boliviano"
+      }
+   ]
+}
