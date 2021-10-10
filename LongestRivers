@@ -1,0 +1,84 @@
+{
+    "LongestRivers": [
+        {
+            "id": 1,
+            "river": "Nile",
+            "length": "6650 km",
+            "drainageArea": "3254555 km^2",
+            "averageDischarge": "2800 m^3/s",
+            "outflow":"Mediterranean"
+        },
+        {
+            "id": 2,
+            "river": "Amazon",
+            "length": "6400 km",
+            "drainageArea": "7000000 km^2",
+            "averageDischarge": "209000 m^3/s",
+            "outflow":"Atlantic Ocean"
+        },
+        {
+            "id": 3,
+            "river": "Yangtze",
+            "length": "6300km",
+            "drainageArea": "1800000 km^2",
+            "averageDischarge": "30166 m^3/s",
+            "outflow":"East China Sea"
+        },
+        {
+            "id": 4,
+            "river": "Missisipi",
+            "length": "6275 km",
+            "drainageArea": "2980000 km^2",
+            "averageDischarge": "16792 m^3/s",
+            "outflow":"Gulf Of Mexico"
+       },
+       {
+            "id": 5,
+            "river": "Yenisei",
+            "length": "5539 km",
+            "drainageArea": "2580000 km^2",
+            "averageDischarge": "18050 m^3/s",
+            "outflow":"Kara Sea"
+       },
+       {
+            "id": 6,
+            "river": "Yellow River",
+            "length": "5464 km",
+            "drainageArea": "745000 km^2",
+            "averageDischarge": "2571 m^3/s",
+            "outflow":"Bohai Sea"
+       },
+       {
+            "id": 7,
+            "river": "Ob–Irtyshr",
+            "length": "5410 km",
+            "drainageArea": "2990000 km^2",
+            "averageDischarge": "12475 m^3/s",
+            "outflow":"Gulf of Ob"
+       },
+       {
+            "id": 8,
+            "river": "Parana",
+            "length": "4880 km",
+            "drainageArea": "2582672 km^2",
+            "averageDischarge": "22000 m^3/s",
+            "outflow":"Rio de la pata"
+      },
+      {
+            "id": 9,
+            "river": "Congo",
+            "length": "4700 km",
+            "drainageArea": "3680000 km^2",
+            "averageDischarge": "41800 m^3/s",
+            "outflow":"Atlantic Ocean"
+     },
+     {
+            "id": 10,
+            "river": "Heilong Jiang",
+            "length": "4444 km",
+            "drainageArea": "1855000 km^2",
+            "averageDischarge": "11400 m^3/s",
+            "outflow":"Sea of Okhotsk"
+    }
+   ]
+}
