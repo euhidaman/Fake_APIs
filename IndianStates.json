@@ -1,0 +1,174 @@
+{
+    "states":[
+       {
+          "state":"Andhra Pradesh",
+          "capital":"Hyderabad",
+          "official_language":"Telugu"
+          
+       },
+       {
+         "state":"Arunanchal Pradesh",
+         "capital":"Itanagar",
+         "official_language":"English"
+         
+      },
+      {
+         "state":"Assam",
+         "capital":"Dispur",
+         "official_language":"Assamese"
+         
+      },
+      {
+         "state":"Bihar",
+         "capital":"Patna",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Chattisgarh",
+         "capital":"Raipur",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Goa",
+         "capital":"Panaji",
+         "official_language":"Konkani"
+         
+      },
+      {
+         "state":"Gujrat",
+         "capital":"Gandhinagar",
+         "official_language":"Gujrati"
+         
+      },
+      {
+         "state":"Haryana",
+         "capital":"Chandigarh",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Himachal Pradesh",
+         "capital":"Shimla",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Jharkhand",
+         "capital":"Ranchi",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Karnataka",
+         "capital":"Bengaluru",
+         "official_language":"Kannada"
+         
+      },
+      {
+         "state":"Kerala",
+         "capital":"Thiruvananthapuram",
+         "official_language":"Malyalam"
+         
+      },
+      {
+         "state":"Madhya Pradesh",
+         "capital":"Bhopal",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Maharashtra",
+         "capital":"Mumbai",
+         "official_language":"Marathi"
+         
+      },
+      {
+         "state":"Manipur",
+         "capital":"Imphal",
+         "official_language":"Meitei"
+         
+      },
+      {
+         "state":"Meghalaya",
+         "capital":"Shillong",
+         "official_language":"English"
+         
+      },
+      {
+         "state":"Mizoram",
+         "capital":"Aizawal",
+         "official_language":"Mizo"
+         
+      },
+      {
+         "state":"Nagaland",
+         "capital":"Kohima",
+         "official_language":"English"
+         
+      },
+      {
+         "state":"Odisha",
+         "capital":"Bhubneshwar",
+         "official_language":"Odia"
+         
+      },
+      {
+         "state":"Punjab",
+         "capital":"Chandigarh",
+         "official_language":"Punjabi"
+         
+      },
+      {
+         "state":"Rajasthan",
+         "capital":"Jaipur",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Sikkim",
+         "capital":"Gangtok",
+         "official_language":"English"
+         
+      },
+      {
+         "state":"Tamil Nadu",
+         "capital":"Chennai",
+         "official_language":"Tamil"
+         
+      },
+      {
+         "state":"Telangana",
+         "capital":"Hyderabad",
+         "official_language":"Telugu"
+         
+      },
+      {
+         "state":"Tripura",
+         "capital":"Agartala",
+         "official_language":"Bengali"
+         
+      },
+      {
+         "state":"Uttar Pradesh",
+         "capital":"Lucknow",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"Uttarakhand",
+         "capital":"Dehradun",
+         "official_language":"Hindi"
+         
+      },
+      {
+         "state":"West Bengal",
+         "capital":"Kolkata",
+         "official_language":"Bengali"
+         
+      }
+
+    ]
+ }
+ 
