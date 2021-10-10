@@ -1,0 +1,76 @@
+{
+    "Indian-Startups": [
+        {
+            "id": 1,
+            "Name of Startup": "Vedantu",
+            "Headquarters": "Bangalore",
+            "Founders": "Vamsi Krishna, Pulkit Jain, Saurabh Saxena, and Anand Prakash",
+            "Sector": "Edtech",
+            "Parent Organisation": "Vedantu   Innovations Private Limited",
+            "Website": "vedantu.com"
+        },
+        {
+            "id": 2,
+            "Name of Startup": "Mobile Premier League(MPL)",
+            "Headquarters": "Bengaluru1",
+            "Founders": "Sai Srinivas Kiran G and Shubham Malhotra",
+            "Sector": "E-Sports and Gaming",
+            "Parent Organisation": "Galactus Funware Technology Private Limited",
+            "Website": "www.mpl.live"
+        },
+        {
+            "id": 3,
+            "Name of Startup": "Grofers",
+            "Headquarters": "Gurugram, India",
+            "Founders": "Saurabh Kumar, Albinder Dhindsa",
+            "Sector": "Online Shopping/ecommerce",
+            "Parent Organisation": "Grofers India Private Limited",
+            "Website": "grofers.com"
+        },
+        {
+            "id": 4,
+            "Name of Startup": "CoinDCX",
+            "Headquarters": "Mumbai, Maharashtra, India",
+            "Founders": "Sumit Gupta and Neeraj Khandelwal",
+            "Sector": "FinTech",
+            "Parent Organisation": "CoinDCX pvt.ltd.",
+            "Website": "www.coindcx.com"
+        },
+        {
+            "id": 5,
+            "Name of Startup": "Upgrad",
+            "Headquarters": "Mumbai, Maharashtra, India",
+            "Founders": "Ronnie Screwvala, Mayank Kumar, Phalgun Kompalli, and Ravijot Chugh",
+            "Sector": "EdTech",
+            "Parent Organisation": "UpGrad Education Pvt. Ltd",
+            "Website": "upGrad.com"
+        },
+        {
+            "id": 6,
+            "Name of Startup": "BharatPe",
+            "Headquarters": "Delhi, India",
+            "Founders": "Ashneer Grover, Bhavik Koladiya, Shashvat Nakrani",
+            "Sector": "FinTech",
+            "Parent Organisation": "BharatPe pvt.ltd.",
+            "Website": "bharatpe.com"
+        },
+        {
+            "id": 7,
+            "Name of Startup": "Cred",
+            "Headquarters": "Bengaluru, Karnataka, India",
+            "Founders": "Kunal Shah",
+            "Sector": "FinTech",
+            "Parent Organisation": "Cred pvt. Ltd.",
+            "Website": "cred.club"
+        },
+        {
+            "id": 8,
+            "Name of Startup": "Licious",
+            "Headquarters": "Bengaluru, Karnataka, India",
+            "Founders": "Vivek Gupta and Abhay Hanjura",
+            "Sector": "E-commerce and Food & Beverage",
+            "Parent Organisation": "Delightful Gourmet Pvt Ltd.",
+            "Website": "licious.com"
+        }
+    ]
+}
