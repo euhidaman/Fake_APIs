@@ -1,0 +1,75 @@
+{
+    "2021_Unicorns": [
+      {
+        "id": 1,
+        "name" : "Digit Insurance",
+        "founded_in" : 2016,
+        "founders" : "Kamesh Goyal and Prem Watsa",
+        "area" : "insurtech"
+      },
+      {
+        "id": 2,
+        "name" : "Innovaccer",
+        "founded_in" : 2014,
+        "founders" : "Sandeep Gupta",
+        "area" : "healthcare" 
+      },
+      {
+        "id": 3,
+        "name" : "Meesho",
+        "founded_in" : 2015,
+        "founders" : " Aatrey and Sanjeev Barnwal",
+        "area" : "E commerce" 
+      },
+      {
+        "id": 4,
+        "name" : "Infra.Market",
+        "founded_in" : 2016,
+        "founders" : "Aaditya Sharda and Souvik Sengupta",
+        "area" : "B2B Marketplace" 
+      },
+      {
+        "id": 5,
+        "name" : "PharmEasy",
+        "founded_in" : 2015,
+        "founders" : "Dharmil Sheth and Dr. Dhaval Shah",
+        "area" : "E Pharmacy" 
+      },
+      {
+        "id": 6,
+        "name" : "CRED",
+        "founded_in" : 2018,
+        "founders" : "Kunal Shah",
+        "area" : "Fintech" 
+      },
+      {
+        "id": 7,
+        "name" : "Groww",
+        "founded_in" : 2016,
+        "founders" : " Lalit Keshre, Harsh Jain, Neeraj Singh, and Ishan Bansal",
+        "area" : "Wealth Management" 
+      },
+      {
+        "id": 8,
+        "name" : "ShareChat",
+        "founded_in" : 2015,
+        "founders" : "Farid Ahsan, Bhanu Singh and Ankush Sachdeva",
+        "area" : "Entertaiment" 
+      },
+      {
+        "id": 9,
+        "name" : "GupShup",
+        "founded_in" : 2004,
+        "founders" : "Beerud Sheth",
+        "area" : "Social Media" 
+      },
+      {
+        "id": 10,
+        "name" : "ChargeBee",
+        "founded_in" : 2010,
+        "founders" : "Rajaraman S, Thiyagarajan T, KP Saravanan and Krish Subramanian",
+        "area" : "Subscription Management" 
+      }
+
+    ]
+}
