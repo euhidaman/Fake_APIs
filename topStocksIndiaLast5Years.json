@@ -1,0 +1,95 @@
+{
+  "topStocksIndiaLast5Years2021": [
+    {
+      "id": 1,
+      "name" : "Axis Bluechip Fund",
+      "mutual_fund_category" : "LARGE_CAP",
+      "aum_inr" : "291606000000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "18.50",
+      "expense_ratio_percent" : "1.58"
+    },
+    {
+      "id": 2,
+      "name" : "Canara Robeco Bluechip Equity Fund",
+      "mutual_fund_category" : "LARGE_CAP",
+      "aum_inr" : "36912500000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "18.08",
+      "expense_ratio_percent" : "1.91"
+
+    },
+    {
+      "id": 3,
+      "name" : "PGIM India Mid-Cap Opportunities Fund",
+      "mutual_fund_category" : "MID_CAP",
+      "aum_inr" : "23833800000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "21.23",
+      "expense_ratio_percent" : "0.37"
+    },
+    {
+      "id": 4,
+      "name" : "Axis Mid-Cap Fund",
+      "mutual_fund_category" : "MID_CAP",
+      "aum_inr" : "138342700000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "21.13",
+      "expense_ratio_percent" : "1.84"
+    },
+    {
+      "id": 5,
+      "name" : "Nippon India Small-Cap Fund",
+      "mutual_fund_category" : "SMALL_CAP",
+      "aum_inr" : "172822100000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "23.61",
+      "expense_ratio_percent" : "1.82"
+    },
+    {
+      "id": 6,
+      "name" : "Parag Parikh Flexi Cap Fund",
+      "mutual_fund_category" : "FLEXI_CAP",
+      "aum_inr" : "131867000000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "21.51",
+      "expense_ratio_percent" : "0.89"
+    },
+    {
+      "id": 7,
+      "name" : "PGIM India Flexi-Cap Fund",
+      "mutual_fund_category" : "FLEXI_CAP",
+      "aum_inr" : "16887000000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "20.79",
+      "expense_ratio_percent" : "2.28"
+    },
+    {
+      "id": 8,
+      "name" : "Quant Tax Plan",
+      "mutual_fund_category" : "ELSS",
+      "aum_inr" : "3274500000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "23.92",
+      "expense_ratio_percent" : "2.25"
+    },
+    {
+      "id": 9,
+      "name" : "Mirae Asset Tax Saver Fund",
+      "mutual_fund_category" : "ELSS",
+      "aum_inr" : "98320000000",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "22.45",
+      "expense_ratio_percent" : "0.48"
+    },
+    {
+      "id": 10,
+      "name" : "SBI Small-Cap Fund",
+      "mutual_fund_category" : "SMALL_CAP",
+      "aum_inr" : "96202099999",
+      "cagr_duration_years" : "5",
+      "cagr_percent" : "23.31",
+      "expense_ratio_percent" : "0.84"
+    }
+  ]
+}
