@@ -1,0 +1,35 @@
+{
+  "topRichestFootballClubOwners": [
+    {
+      "id": 1,
+      "club" : "Newcastle United",
+      "owner" : "Saudi Arabia Public Investment Fund",
+      "valuation" : "£320bn"
+    },
+    {
+      "id": 2,
+      "club" : "Paris Saint-Germain",
+      "owner" : "Qatar Investment Authority",
+      "valuation" : "£220bn"
+
+    },
+    {
+      "id": 3,
+      "club" : "Manchester City",
+      "owner" : "Sheikh Mansour",
+      "valuation" : "£21bn"
+    },
+    {
+      "id": 4,
+      "club" : "RB Leipzig, RB Salzburg and New York Red Bulls",
+      "owner" : "Dietrich Mateschitz",
+      "valuation" : "£15.7bn"
+    },
+    {
+      "id": 5,
+      "club" : "Juventus",
+      "owner" : "Andrea Agnelli",
+      "valuation" : "£14bn"
+    }
+  ]
+}
