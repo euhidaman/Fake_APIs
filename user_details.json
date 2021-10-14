@@ -1,0 +1,36 @@
+{
+  posts: [
+    {
+      id: 1,
+      firstName: "Priyanshu",
+      lastName: "Mishra",
+      age: "20",
+      isActive: "true",
+      phoneNumber: "9567894590",
+    },
+    {
+      id: 2,
+      firstName: "Chinmay",
+      lastName: "Lohani",
+      age: "21",
+      isActive: "false",
+      phoneNumber: "9547894390",
+    },
+    {
+      id: 3,
+      firstName: "Rohit",
+      lastName: "Tiwari",
+      age: "14",
+      isActive: "true",
+      phoneNumber: "9234893490",
+    },
+    {
+      id: 4,
+      firstName: "Abhishek",
+      lastName: "Jha",
+      age: "22",
+      isActive: "true",
+      phoneNumber: "8847894590",
+    },
+  ],
+}
