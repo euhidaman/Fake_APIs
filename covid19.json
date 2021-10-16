@@ -1,0 +1,220 @@
+{
+    "cases":[
+        {
+            "state":"Andaman and Nicobar",
+            "total confirmed":7641,
+            "cured/discharged/migrated":7503,
+            "death":129
+        },
+        {
+            "state":"Andhra Pradesh",
+            "total confirmed":2059708,
+            "cured/discharged/migrated":2038960,
+            "death":14295
+        },
+        {
+            "state":"Arunachal Pradesh",
+            "total confirmed":54964,
+            "cured/discharged/migrated":54501,
+            "death":280
+        },
+        {
+            "state":"Assam",
+            "total confirmed":605944,
+            "cured/discharged/migrated":596547,
+            "death":5939
+        },
+        {
+            "state":"Bihar",
+            "total confirmed":726021,
+            "cured/discharged/migrated":716314,
+            "death":9661
+        },
+        {
+            "state":"Chandigarh",
+            "total confirmed":65297,
+            "cured/discharged/migrated":64447,
+            "death":820
+        },
+        {
+            "state":"Chhattisgarh",
+            "total confirmed":1005624,
+            "cured/discharged/migrated":991857,
+            "death":13570
+        },
+        {
+            "state":"Dadra and Nagar Haveli and Daman and Diu",
+            "total confirmed":10675,
+            "cured/discharged/migrated":10668,
+            "death":4
+        },
+        {
+            "state":"Delhi",
+            "total confirmed":1439337,
+            "cured/discharged/migrated":1413921,
+            "death":25089
+        },
+        {
+            "state":"Goa",
+            "total confirmed":177410,
+            "cured/discharged/migrated":173423,
+            "death":3339
+        },
+        {
+            "state":"Gujarat",
+            "total confirmed":826258,
+            "cured/discharged/migrated":815960,
+            "death":10086
+        },
+        {
+            "state":"Haryana",
+            "total confirmed":771049,
+            "cured/discharged/migrated":760884,
+            "death":10049
+        },
+        {
+            "state":"Himachal Pradesh",
+            "total confirmed":221203,
+            "cured/discharged/migrated":216125,
+            "death":3717
+        },
+        {
+            "state":"Jammu and Kashmir",
+            "total confirmed":330885,
+            "cured/discharged/migrated":325564,
+            "death":4426
+        },
+        {
+            "state":"Jharkhand",
+            "total confirmed":348415,
+            "cured/discharged/migrated":343150,
+            "death":5135
+        },
+        {
+            "state":"Karnataka",
+            "total confirmed":2982869,
+            "cured/discharged/migrated":2935238,
+            "death":37931
+        },
+        {
+            "state":"Kerala",
+            "total confirmed":4838811,
+            "cured/discharged/migrated":4716728,
+            "death":26734
+        },
+        {
+            "state":"Ladakh",
+            "total confirmed":20871,
+            "cured/discharged/migrated":20621,
+            "death":208
+        },
+        {
+            "state":"Lakshadweep",
+            "total confirmed":10365,
+            "cured/discharged/migrated":10313,
+            "death":51
+        },
+        {
+            "state":"Maharashtra",
+            "total confirmed":6588429,
+            "cured/discharged/migrated":6415316,
+            "death":139734
+        },
+        {
+            "state":"Manipur",
+            "total confirmed":122545,
+            "cured/discharged/migrated":119208,
+            "death":1893
+        },
+        {
+            "state":"Meghalaya",
+            "total confirmed":82815,
+            "cured/discharged/migrated":80490,
+            "death":1432
+        },
+        {
+            "state":"Mizoram",
+            "total confirmed":111651,
+            "cured/discharged/migrated":97955,
+            "death":380
+        },
+        {
+            "state":"Madhya Pradesh",
+            "total confirmed":792675,
+            "cured/discharged/migrated":782046,
+            "death":10523
+        },
+        {
+            "state":"Nagaland",
+            "total confirmed":31547,
+            "cured/discharged/migrated":30645,
+            "death":674
+        },
+        {
+            "state":"Odisha",
+            "total confirmed":1034276,
+            "cured/discharged/migrated":1021180,
+            "death":8279
+        },
+        {
+            "state":"Puducherry",
+            "total confirmed":127296,
+            "cured/discharged/migrated":124836,
+            "death":1849
+        },
+        {
+            "state":"Punjab",
+            "total confirmed":601992,
+            "cured/discharged/migrated":585224,
+            "death":16540
+        },
+        {
+            "state":"Rajasthan",
+            "total confirmed":954383,
+            "cured/discharged/migrated":945389,
+            "death":8954
+        },
+        {
+            "state":"Sikkim",
+            "total confirmed":31739,
+            "cured/discharged/migrated":31159,
+            "death":391
+        },
+        {
+            "state":"Tamil Nadu",
+            "total confirmed":2684641,
+            "cured/discharged/migrated":2633534,
+            "death":35869
+        },
+        {
+            "state":"Telengana",
+            "total confirmed":668722,
+            "cured/discharged/migrated":660730,
+            "death":3936
+        },
+        {
+            "state":"Tripura",
+            "total confirmed":84299,
+            "cured/discharged/migrated":83381,
+            "death":816
+        },
+        {
+            "state":"Uttar Pradesh",
+            "total confirmed":1710014,
+            "cured/discharged/migrated":1686984,
+            "death":22897
+        },
+        {
+            "state":"Uttarakhand",
+            "total confirmed":343739,
+            "cured/discharged/migrated":336163,
+            "death":7397
+        },
+        {
+            "state":"West Bengal",
+            "total confirmed":1579463,
+            "cured/discharged/migrated":1552997,
+            "death":18953
+        }
+    ]
+}
