@@ -1,0 +1,64 @@
+{
+    "Mountain_peaks": [
+      {
+        "rank": 1,
+        "name": "mount Everest",
+        "height": "8,848.86m",
+        "country": "Nepal"
+      },
+      {
+        "rank": 2,
+        "name": "k2",
+        "height": "8,611m",
+        "country": "China"
+      },
+      {
+        "rank": 3,
+        "name": "Kangchenjunga",
+        "height": "8,586m",
+        "country": "India"
+      },
+      {
+        "rank": 4,
+        "name": "Lhotse",
+        "height": "8,516m",
+        "country": "India"
+      },
+      {
+        "rank": 5,
+        "name": "Makalu",
+        "height": "8,485m",
+        "country": "Nepal"
+      },
+      {
+        "rank": 6,
+        "name": "Cho Oyu",
+        "height": "8,188m",
+        "country": "Nepal"
+      },
+      {
+        "rank": 7,
+        "name": "Dhaulagiri I",
+        "height": "8,167m",
+        "country": "Nepal"
+      },
+      {
+        "rank": 8,
+        "name": "Manaslu",
+        "height": "8,163m",
+        "country": "Nepal"
+      },
+      {
+        "rank": 9,
+        "name": "Nanga Parbat",
+        "height": "8,126m",
+        "country": "Pakistan"
+      },
+      {
+        "rank": 10,
+        "name": "Annapurna I",
+        "height": "8,091m",
+        "country": "Nepal"
+      }
+    ]
+  }
