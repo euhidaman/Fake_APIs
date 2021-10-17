@@ -1,0 +1,46 @@
+{
+    "rugby": [
+        {
+            "id": 1,
+            "name": "Richie McCaw",
+            "country": "New Zealand",
+            "year": "2003-2015",
+            "caps": "148"
+        },
+        {
+            "id": 2,
+            "name": "Dan Carter",
+            "country": "New Zealand",
+            "year": "2003-2015",
+            "caps": "228"
+        },
+        {
+            "id": 3,
+            "name": "Michael Jones",
+            "country": "New Zealand",
+            "year": "1990-2003",
+            "caps": "55"
+        },
+        {
+            "id": 4,
+            "name": "Brian O’Driscoll",
+            "country": "Ireland",
+            "year": "2003-2012",
+            "caps": "141"
+        },
+        {
+            "id": 5,
+            "name": "David Campese",
+            "country": "Australia",
+            "year": "1991-1997",
+            "caps": "157"
+        },
+        {
+            "id": 6,
+            "name": "Jonah Lomu",
+            "country": "New Zealand",
+            "year": "1994-2007",
+            "caps": "63"
+        }
+    ]
+}
