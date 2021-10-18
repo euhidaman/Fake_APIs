@@ -4,73 +4,133 @@
       “id”: 1,
       “firstName”: “Sachin”,
       “lastName”: “Tendulkar”,
-      “age”: 45
+      “age”: 45,
+      "fours": 2016,
+      "innings_number": 240,
+      "total-runs": 18426,
+      "sixes": "264",
+      "strike_rate": "72.66"
     },
     {
       “id”: 2,
       “firstName”: “Alastair”,
       “lastName”: “Cook”,
-      “age”: 37
+      “age”: 37,
+      "fours": 1924,
+      "innings_number": 192,
+      "total-runs": 12472,
+      "sixes": "152",
+      "strike_rate": "62.42"
     },
     {
       “id”: 3,
       “firstName”: “Steve”,
       “lastName”: “Smith”,
-      “age”: 32
+      “age”: 32,
+      "fours": 842,
+      "innings_number": 152,
+      "total-runs": 12156,
+      "sixes": "145",
+      "strike_rate": "52.91"
     },
     {
       “id”: 4,
       “firstName”: “Rashid”,
       “lastName”: “Khan”,
-      “age”: 23
+      “age”: 23,
+      "fours": 424,
+      "innings_number": 120,
+      "total-runs": 8423,
+      "sixes": "72",
+      "strike_rate": "32.15"
     },
     {
       “id”: 5,
       “firstName”: “Shimron”,
       “lastName”: “Hetmyer”,
-      “age”: 24
+      “age”: 24,
+      "fours": 1064,
+      "innings_number": 94,
+      "total-runs": 7342,
+      "sixes": "64",
+      "strike_rate": "42.15"
     },
     {
       “id”: 6,
       “firstName”: “Marcus”,
       “lastName”: “Stoinis”,
-      “age”: 32
+      “age”: 32,
+      "fours": 1241,
+      "innings_number": 72,
+      "total-runs": 6241,
+      "sixes": "51",
+      "strike_rate": "31.34"
     },
     {
       “id”: 7,
       “firstName”: “Nicholas”,
       “lastName”: “Pooran”,
-      “age”: 26
+      “age”: 26,
+      "fours": 1051,
+      "innings_number": 56,
+      "total-runs": 7694,
+      "sixes": "102",
+      "strike_rate": "36.72"
     },
     {
       “id”: 8,
       “firstName”: “Kieron”,
       “lastName”: “Pollard”,
-      “age”: 34
+      “age”: 34,
+      "fours": 1342,
+      "innings_number": 42,
+      "total-runs": 9726,
+      "sixes": "82",
+      "strike_rate": "42.32"
     },
     {
       “id”: 9,
       “firstName”: “Kagiso”,
       “lastName”: “Rabada”,
-      “age”: 26
+      “age”: 26,
+      "fours": 1532,
+      "innings_number": 24,
+      "total-runs": 2426,
+      "sixes": "42",
+      "strike_rate": "26.15"
     },
     {
       “id”: 10,
       “firstName”: “Tim”,
       “lastName”: “Southee”,
-      “age”: 32
+      “age”: 32,
+      "fours": 1347,
+      "innings_number": 54,
+      "total-runs": 4260,
+      "sixes": "84",
+      "strike_rate": "21.25"
     },
     {
       “id”: 11,
       “firstName”: “Lendl”,
       “lastName”: “Simmons”,
-      “age”: 36
+      “age”: 36,
+      "fours": 1264,
+      "innings_number": 58,
+      "total-runs": 6426,
+      "sixes": "43",
+      "strike_rate": "42.15"
     },
     {
       “id”: 12,
       “firstName”: “Darren”,
       “lastName”: “Bravo”,
-      “age”: 32
+      “age”: 32,
+      "fours": 1324,
+      "innings_number": 64,
+      "total-runs": 14555,
+      "sixes": "76",
+      "strike_rate": "31.34"
     },
   ]
 }
