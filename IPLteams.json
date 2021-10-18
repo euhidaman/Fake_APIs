@@ -5,8 +5,8 @@
       "name" : "Chennai Super Kings",
       "first_appearance" : 2008,
       "last_appearance" : 2021,
-      "champions" : 3,
-      "finals" : 8,
+      "champions" : 4,
+      "finals" : 9,
       "total_seasons":12,
       "wikipedia":"https://en.wikipedia.org/wiki/Chennai_Super_Kings"
     },
@@ -47,7 +47,7 @@
       "first_appearance" : 2008,
       "last_appearance" : 2021,
       "champions" : 2,
-      "finals" : 2,
+      "finals" : 3,
       "total_seasons":14,
       "wikipedia":"https://en.wikipedia.org/wiki/Kolkata_Knight_Riders"
     },
