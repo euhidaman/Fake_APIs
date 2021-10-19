@@ -1,0 +1,52 @@
+{
+  "basketBallTeams": [
+    {
+      "id": 1,
+      "name" : "Philadelphia 76ers-e",
+      "wins" : 49,
+      "losses" : 23,
+      "win_percentage" : 0.681,
+      "last_10": "8-2"
+    },
+    {
+      "id": 2,
+      "name" : "Brooklyn Nets-x",
+      "wins" : 48,
+      "losses" : 24,
+      "win_percentage" : 0.667,
+      "last_10": "6-4"
+    },
+    {
+      "id": 3,
+      "name" : "Milwaukee Bucks-c",
+      "wins" : 46,
+      "losses" : 64,
+      "win_percentage" : 0.639,
+      "last_10": "8-2"
+    },
+    {
+      "id": 4,
+      "name" : "New York Knicks-x",
+      "wins" : 41,
+      "losses" : 31,
+      "win_percentage" : 0.539,
+      "last_10": "7-3"
+    },
+    {
+      "id": 5,
+      "name" : "Atlanta Hawks-se",
+      "wins" : 41,
+      "losses" : 31,
+      "win_percentage" : 0.539,
+      "last_10": "7-3"
+    },
+    {
+      "id": 5,
+      "name" : "Atlanta Hawks-se",
+      "wins" : 40,
+      "losses" : 32,
+      "win_percentage" : 0.556,
+      "last_10": "8-2"
+    }
+  ]
+}
