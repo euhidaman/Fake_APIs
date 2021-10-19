@@ -1,0 +1,124 @@
+{
+  "basketBallTeams": [
+    {
+      "id": 1,
+      "name" : "Philadelphia 76ers-e",
+      "wins" : 49,
+      "losses" : 23,
+      "win_percentage" : 0.681,
+      "last_10": "8-2"
+    },
+    {
+      "id": 2,
+      "name" : "Brooklyn Nets-x",
+      "wins" : 48,
+      "losses" : 24,
+      "win_percentage" : 0.667,
+      "last_10": "6-4"
+    },
+    {
+      "id": 3,
+      "name" : "Milwaukee Bucks-c",
+      "wins" : 46,
+      "losses" : 64,
+      "win_percentage" : 0.639,
+      "last_10": "8-2"
+    },
+    {
+      "id": 4,
+      "name" : "New York Knicks-x",
+      "wins" : 41,
+      "losses" : 31,
+      "win_percentage" : 0.539,
+      "last_10": "7-3"
+    },
+    {
+      "id": 5,
+      "name" : "Atlanta Hawks-se",
+      "wins" : 41,
+      "losses" : 31,
+      "win_percentage" : 0.539,
+      "last_10": "7-3"
+    },
+    {
+      "id": 6,
+      "name" : "Miami Heat-x",
+      "wins" : 40,
+      "losses" : 32,
+      "win_percentage" : 0.556,
+      "last_10": "8-2"
+    },
+    {
+      "id": 7,
+      "name" : "Boston Celtics-x",
+      "wins" : 36,
+      "losses" : 36,
+      "win_percentage" : 0.500,
+      "last_10": "4-6"
+    },
+    {
+      "id": 8,
+      "name" : "Washington Wizards-x",
+      "wins" : 34,
+      "losses" : 38,
+      "win_percentage" : 0.472,
+      "last_10": "6-4"
+    },
+    {
+      "id": 9,
+      "name" : "Indiana Pacers-pi",
+      "wins" : 34,
+      "losses" : 38,
+      "win_percentage" : 0.472,
+      "last_10": "5-5"
+    },
+    {
+      "id": 10,
+      "name" : "Charlotte Hornets-pi",
+      "wins" : 34,
+      "losses" : 39,
+      "win_percentage" : 0.458,
+      "last_10": "3-7"
+    },
+    {
+      "id": 11,
+      "name" : "Chicago Bulls-o",
+      "wins" : 31,
+      "losses" : 41,
+      "win_percentage" : 0.431,
+      "last_10": "5-5"
+    },
+    {
+      "id": 12,
+      "name" : "Toronto Raptors-o",
+      "wins" : 27,
+      "losses" : 45,
+      "win_percentage" : 0.375,
+      "last_10": "1-9"
+    },
+    {
+      "id": 13,
+      "name" : "Cleveland Cavaliers-o",
+      "wins" : 22,
+      "losses" : 50,
+      "win_percentage" : 0.306,
+      "last_10": "1-9"
+    },
+    {
+      "id": 14,
+      "name" : "Orlando Magic-o",
+      "wins" : 21,
+      "losses" : 51,
+      "win_percentage" : 0.292,
+      "last_10": "2-8"
+    },
+    {
+      "id": 15,
+      "name" : "Detroit Pistons-o",
+      "wins" : 20,
+      "losses" : 52,
+      "win_percentage" : 0.278,
+      "last_10": "1-9"
+    }
+  ]
+}
