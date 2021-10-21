@@ -27,6 +27,14 @@
         {
 		color: "black",
 		value: "#000"
+        },
+        {
+            color: "sky blue",
+            value: "#87CEEB"
+        },
+        {
+            color: "navy blue",
+            value: "#000080"
         }
     ]
 }
