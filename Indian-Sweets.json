@@ -1,0 +1,550 @@
+{
+	    "Indian-Sweets":[
+	       {
+	          "name": "Balu Shahi",
+	          "ingredients": ["Maida flour”,“ yogurt”,“ oil”,“ sugar”],
+	          "diet": "vegeterian",
+	          "prep-time": "45 mins",
+           "cook-time": "25 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+	       },
+	       {
+	          "name": "Boondi",
+	          "ingredients": [“Gram flour”, “ghee”, “sugar”],
+	          "diet": "vegeterian",
+	          "prep-time": "80 mins",
+           "cook-time": "30 mins",
+           “state”: “Rajasthan”,
+           "course": "dessert"
+	       {
+	          "name": "Gajar ka halwa",
+	          "ingredients": [“Carrots”, “milk”, “sugar”, “ghee”, “cashews”, “raisins”],
+	          "diet": "vegeterian",
+	          "prep-time": "15 mins",
+           "cook-time": "60 mins",
+           “state”: “Punjab”,
+           "course": "dessert"
+	       },
+                            
+       {
+          "name": "Ghewar",
+          "ingredients": [“Flour”, “ghee”, “kewra”, “milk”, “clarified butter”, “sugar”, “almonds”, “pistachio”, “saffron”, “green cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "45 mins",
+           "cook-time": "25 mins",
+           “state”: “Rajasthan”,
+           "course": "dessert"
+       },
+   
+       {
+          "name": "Pinaca",
+          "ingredients": [“Brown rice”, “fennel seeds”, “grated coconut”, “black pepper”, “ginger powder”],
+          "diet": "vegeterian",
+          "prep-time": "8 mins",
+           "cook-time": "5 mins",
+           “state”: “Goa”,
+           "course": "dessert"
+       },
+       
+       {
+          "name": "Mawa Bati",
+          "ingredients": [“Milk powder”, “dry fruits”, “arrowroot powder”, “all purpose flour”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "45 mins",
+           “state”: “Madhya Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Shufta",
+          "ingredients": [“Cottage cheese”, “dry dates”, “dried rose petals”, “pistachio”, “badam”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "18 mins",
+           “state”: “Jammu & Kashmir”,
+           "course": "dessert"
+       },
+       {
+          "name": "Til Pitha",
+          "ingredients": [“Glutinous rice”, “black sesame seeds”, “gur”],
+          "diet": "vegeterian",
+          "prep-time": "5 mins",
+           "cook-time": "30 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Bebinca",
+          "ingredients": [“Coconut milk”, “egg yolks”, “clarified butter”, “all purpose flour”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "60 mins",
+           “state”: “Goa”,
+            "course": "dessert"
+       },
+       {
+          "name": "Pakhoya",
+          "ingredients": [“Basmati rice”, “rose water”, “sugar”, “clarified butter”, “cardamom pods”],
+          "diet": "vegeterian",
+          "prep-time": "45 mins",
+           "cook-time": "25 mins",
+           “state”: “Assam”,
+           "course": "dessert"
+       },
+       {
+          "name": "Hando Guri",
+          "ingredients": [“Jaggery”, “raisins”],
+          "diet": "vegeterian",
+          "prep-time": "5 mins",
+           "cook-time": "4 mins",
+           “state”: “Assam”,
+           "course": "dessert"
+       },
+       {
+          "name": "Goja",
+          "ingredients": [“Baking soda”, “clarified butter”, “oil”, “all purpose flour”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "60 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Gheela Pitha",
+          "ingredients": [“Sticky rice”, “rice flour”, “jaggery”, “orange rind”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "30 mins",
+           “state”: “Assam”,
+          "course": "dessert"
+       },
+       {
+          "name": "Cheera Doi",
+          "ingredients": [“Rice”, “mango”, “curd”],
+          "diet": "vegeterian",
+          "prep-time": "4 mins",
+           "cook-time": "5 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Churma Laddoo",
+          "ingredients": [“Whole wheat flour”, “khus khus”, “sesame seeds”, “dry coconut”, “gur”],
+          "diet": "vegeterian",
+          "prep-time": "12 mins",
+           "cook-time": "40 mins",
+           “state”: “Rajasthan”,
+           "course": "dessert"
+       },
+       {
+          "name": "Sukhdi",
+          "ingredients": [“Whole wheat flour”, “gur”, “clarified butter”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Maharastra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Mohanthal",
+          "ingredients": [“Rose water”, “pistachio”, “badam”, “bengal gram flour”, “saffron”],
+          "diet": "vegeterian",
+          "prep-time": "5 mins",
+           "cook-time": "45 mins",
+           “state”: “Gujrat”,
+           "course": "dessert"
+       },
+     {
+          "name": "Halvasan",
+          "ingredients": [“Whole wheat rava”, “chia seed”, “lemon”, “edible gum”, “litre milk”],
+          "diet": "vegeterian",
+          "prep-time": "4 mins",
+           "cook-time": "2 mins",
+           “state”: “Gujrat”,
+           "course": "dessert"
+       },
+       {
+          "name": "Gud Papdi",
+          "ingredients": [“Wheat flour”, “jaggery”, “clarified butter”, “sliced almonds”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Gujrat”,
+            "course": "dessert"
+       },
+       {
+          "name": "Dhudi Halwa",
+          "ingredients": [“Bottle gourd”, “green cardamon”, “raisins”, “sugar”, “clarified butter”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "30 mins",
+           “state”: “Gujrat”,
+           "course": "dessert"
+       },
+       {
+          "name": "Coconut Vadi",
+          "ingredients": [“Condensed milk”, “mawa”, “desiccated coconut”, “almonds”, “cashews”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "30 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Shahi Tukra",
+          "ingredients": [“Rose water”, “milk”, “white bread slices”, “saffron”, “almonds”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "30 mins",
+           “state”: “Telengana”,
+           "course": "dessert"
+       },
+       {
+          "name": "Payasam/Kheer",
+          "ingredients": [“Rice”, “cashew nuts”, “milk”, “raisins”, “sugar”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "30 mins",
+           “state”: “All over India”,
+           "course": "dessert"
+       },
+       {
+          "name": "Panjeeri",
+          "ingredients": [“Whole wheat flour”, “musk melon seeds”, “poppy seeds”, “edible gum”, “semolina”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "25 mins",
+           “state”: “Uttar Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Kulfi Falooda",
+          "ingredients": [“Rose syrup”, “falooda sev”, “mixed nuts”, “saffron”, “sugar”],
+          "diet": "vegeterian",
+          "prep-time": "45 mins",
+           "cook-time": "25 mins",
+           “state”: “North and Western India”,
+           "course": "dessert"
+       },
+       {
+          "name": "Chak Hao Kheer",
+          "ingredients": [“Rice”, “milk”, “sugar”, “cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "240 mins",
+           "cook-time": "45 mins",
+           “state”: “Manipur”,
+           "course": "dessert"
+       },
+       {
+          "name": "Sutar Feni",
+          "ingredients": ["Maida flour”,“ghee”,“ sugar”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "55 mins",
+           “state”: “Maharastra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Shrikhand",
+          "ingredients": [“Curd”, “sugar”, “warm milk”, “saffron”, “cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "15 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Shankarpali",
+          "ingredients": [“Sugar”, “ghee”, “maida flour”, “semolina”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "35 mins",
+           “state”: “Maharashtra”,
+           "flavour": "sweet", 
+           "course": "dessert"
+       },
+       {
+          "name": "Modhak",
+          "ingredients": [“Rice flour”, “coconut”, “jaggery”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "15 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Mahim Halwa",
+          "ingredients": ["Semolina”,“ sugar”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "25 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Doodhpak",
+          "ingredients": [“Milk”, “rice”, “sugar”, “dry fruits”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "60 mins",
+           “state”: “Gujrat”,
+           "course": "dessert"
+       },
+       {
+          "name": "Basundi",
+          "ingredients": ["Sugar”, “milk”, “nuts”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "35 mins",
+           “state”: “Gujrat”,
+           "course": "dessert"
+       },
+       {
+          "name": "Dhondas",
+          "ingredients": ["Cucumber”,“ rava”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "50 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Anarsa",
+          "ingredients": [“Rice flour”, “jaggery”, “khus-khus seeds”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "50 mins",
+           “state”: “Maharashtra”,
+           "course": "dessert"
+       },
+       {
+          "name": "Kajjikikaya",
+          "ingredients": ["Rice flour”, “jaggery”, “coconut”],
+          "diet": "vegeterian",
+          "prep-time": "40 mins",
+           "cook-time": "15 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": “Unni Appam",
+          "ingredients": ["Rice flour”, “banana”, “jaggery”, “coconut”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Tamil Nadu”,
+           "course": "dessert"
+       },
+       {
+          "name": "Sheer Korma",
+          "ingredients": ["Vermicelli pudding”, “milk,“ sugar”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Telengana”,
+           "course": "dessert"
+       },
+       {
+          "name": "Qubani ka meetha",
+          "ingredients": ["Apricots”,“ sugar syrup”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Telengana”,
+           "course": "dessert"
+       },
+       {
+          "name": "Pootharekulu",
+          "ingredients": ["Rice flour”, “powdered sugar”, “ghee”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "60 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Pongal",
+          "ingredients": ["Rice”, “moong dal”, “jaggerey”, “cashews”, “salt”, “pepper”, “curry leaves”, “ghee”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "35 mins",
+           “state”: “Tamil Nadu”,
+           "course": "dessert"
+       },
+       {
+          "name": "Poornalu",
+          "ingredients": ["Chana dal”, “jaggery”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "25 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Mysore Pak",
+          "ingredients": ["Besan flour”, “semolina”, “mung bean”, “jaggery”, “coconut”, “skimmed milk powder”, “sugar”, “ghee”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "25 mins",
+           “state”: “Karnataka”,
+           "course": "dessert"
+       },
+       {
+          "name": "Kuzhi Paniyaram",
+          "ingredients": [“Black lentils”, “rice”, “ghee”, “jaggery”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “Kerala”,
+           "course": "dessert"
+       },
+       {
+          "name": "Kakinada khaja",
+          "ingredients": ["Wheat flour”, “sugar”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "30 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Gavvalu",
+          "ingredients": ["Rice flour”, “sugar”, “salt”, “ghee, “semolina”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "30 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Double ka Meetha",
+          "ingredients": ["Loaf bread”, “milk”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "30 mins",
+           “state”: “Telengana”,
+           "course": "dessert"
+       },
+       {
+          "name": "Dharwad Petha",
+          "ingredients": ["Milk”, “Sugar”, “Dharwadi buffalo milk”],
+          "diet": "vegeterian",
+          "prep-time": "20 mins",
+           "cook-time": "60 mins",
+           “state”: “Karnataka”,
+           "course": "dessert"
+       },
+       {
+          "name": "Chikki",
+          "ingredients": ["Peanuts”, “jaggery”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "20 mins",
+           “state”: “West and South India”,
+           "course": "dessert"
+       },
+       {
+          "name": "Bandar Laddu",
+          "ingredients": ["Besan”, “jaggery”, “cardamom powder”, “ghee”, “cashews and raisins”, “jaggery syrup”, “sugar”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "35 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Ariselu",
+          "ingredients": ["Rice flour”, “jaggery”, “ghee”],
+          "diet": "vegeterian",
+          "prep-time": "15 mins",
+           "cook-time": "75 mins",
+           “state”: “Andra Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Chhena Poda",
+          "ingredients": ["Sugar”, “chenna cheese”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "45 mins",
+           “state”: “Odisha”,
+           "course": "dessert"
+       },
+       {
+          "name": "Misti Doi",
+          "ingredients": ["Milk”, “jaggery”, “yeast”],
+          "diet": "vegeterian",
+          "prep-time": "480 mins",
+           "cook-time": "30 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Balu Shahi",
+          "ingredients": ["Maida flour”,“ yogurt”,“ oil”,“ sugar”],
+          "diet": "vegeterian",
+          "prep-time": "45 mins",
+           "cook-time": "25 mins",
+           “state”: “West Bengal”,
+           "flavour": "sweet", 
+           "course": "dessert"
+       },
+       {
+          "name": "Malapua",
+          "ingredients": ["Yoghurt”, “refined flour”, “ghee”, “sugar syrup” ,”fennel seeds”],
+          "diet": "vegeterian",
+          "prep-time": "45 mins",
+           "cook-time": "120 mins",
+           “state”: “West Bengal and Bihar”,
+           "course": "dessert"
+       },
+       {
+          "name": "Rasgulla",
+          "ingredients": ["Chhena”, “sugar”, “cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "90 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Sandesh",
+          "ingredients": ["Milk”, “sugar”, “saffron”, “cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "30 mins",
+           "cook-time": "20 mins",
+           “state”: “West Bengal”,
+           "course": "dessert"
+       },
+       {
+          "name": "Pithe",
+          "ingredients": ["Rice flour”, “wheat flour”, “milk”, “sugar”, “jaggery”],
+          "diet": "vegeterian",
+          "prep-time": "25 mins",
+           "cook-time": "45 mins",
+           “state”: “West Bengal and Assam”,
+           "course": "dessert"
+       },
+       {
+          "name": "Son Halwa",
+          "ingredients": ["Corn flour”, “ghee”, “dry fruits”],
+          "diet": "vegeterian",
+          "prep-time": "25 mins",
+           "cook-time": "60 mins",
+           “state”: “Uttar Pradesh”,
+           "course": "dessert"
+       },
+       {
+          "name": "Son Pappdi",
+          "ingredients": ["Gram flour”, “ghee”, “sugar”, “milk”, “cardamom”],
+          "diet": "vegeterian",
+          "prep-time": "25 mins",
+           "cook-time": "60 mins",
+           “state”: “Uttar Pradesh and Maharashtra”,
+           "course": "dessert"
+       }
+   ]
+}
+
+
