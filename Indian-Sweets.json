@@ -543,7 +543,17 @@
            "cook-time": "60 mins",
            “state”: “Uttar Pradesh and Maharashtra”,
            "course": "dessert"
+       },
+       {
+          "name": "Jalebi",
+          "ingredients": ["Yogurt","sugar","jaggery", "corn flour", "saffron", "lemon juice", "baking powder"],
+          "diet": "vegeterian",
+          "prep-time": "10 mins",
+           "cook-time": "45mins",
+           “state”: “Bihar and Uttar Pradesh”,
+           "course": "dessert"
        }
+
    ]
 }
 
