@@ -1,0 +1,70 @@
+{
+  "Tallest_Waterfall": [
+    {
+      "Name": "Angel Falls",
+      "Height": "979m",
+      "Locality": "Bolivar",
+      "Country": "Venezuela"
+    },
+    {
+      "Name": "Tres Hermans Falls",
+      "Height": "914m",
+      "Locality": "Junin",
+      "Country": "Peru"
+    },
+    {
+      "Name": "Olo'upena Falls",
+      "Height": "900m",
+      "Locality": "Hawaii",
+      "Country": "United States"
+    },
+    {
+      "Name": "Yumbilla Falls",
+      "Height": "896m",
+      "Locality": "Amazonas",
+      "Country": "Peru"
+    },
+    {
+      "Name": "Skorga",
+      "Height": "875m",
+      "Locality": "Møre og Romsdal",
+      "Country": "Norway"
+    },
+    {
+      "Name": "Vinnufossen",
+      "Height": "860m",
+      "Locality": "Møre og Romsdal",
+      "Country": "Norway"
+    },
+    {
+      "Name": "Balåifossen",
+      "Height": "850m",
+      "Locality": "Vestland",
+      "Country": "Norway"
+    },
+    {
+      "Name": "Mattenbachfall",
+      "Height": "840m",
+      "Locality": "Lauterbrunnental",
+      "Country": "Switzerland"
+    },
+    {
+      "Name": "Pu'uka'oku Falls",
+      "Height": "840m",
+      "Locality": "Hawaii",
+      "Country": "United States"
+    },
+    {
+      "Name": "James Bruce Falls",
+      "Height": "840m",
+      "Locality": "British Columbia",
+      "Country": "Canada"
+    },
+    {
+      "Name": "Browne Falls",
+      "Height": "836m",
+      "Locality": "Southland",
+      "Country": "New Zealand"
+    }
+  ]
+}
