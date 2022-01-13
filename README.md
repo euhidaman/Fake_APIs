@@ -1,7 +1,7 @@
 # Fake_APIs
 Custom REST APIs for various development and testing purposes.
 <p align="center">
-    <a href="https://github.com/euhidaman/Fake_APIs">
+    <a href="https://github.com/euhidaman/Fake_APIs/">
         <img src="https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png" >
     </a>
 </p>
