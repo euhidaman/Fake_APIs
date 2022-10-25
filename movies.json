@@ -1,0 +1,74 @@
+{
+    "MOVIE_DATA_2021": [
+        {
+            "id": 1,
+            "title": "Spider-Man: No Way Home",
+            "length_min": 148,
+            "director": "Jon Watts",
+            "genre": ["Action", "Adventure"],
+        },
+		{
+            "id": 2,
+            "title": "Zack Snyder's Justice League",
+            "length_min": 242,
+            "director": "Zack Snyder",
+            "genre": ["Action", "Adventure"],
+        },
+		{
+            "id": 3,
+            "title": "Dune",
+            "length_min": 155,
+            "director": "Denis Villeneuve",
+            "genre": ["Action", "Adventure Drama"],
+        },
+		{
+            "id": 4,
+            "title": "The Suicide Squad",
+            "length_min": 132,
+            "director": "James Gunn",
+            "genre": ["Action", "Adventure"],
+        },
+		{
+            "id": 5,
+            "title": "Shang-Chi and the Legend of the Ten Rings",
+            "length_min": 132,
+            "director": "Destin Daniel Cretton",
+            "genre": ["Action", "Adventure"],
+        },
+		{
+            "id": 6,
+            "title": "Licorice Pizza",
+            "length_min": 133,
+            "director": "Paul Thomas Anderson",
+            "genre": ["Absurd Comedy", "Comedy Drama"],
+        },
+		{
+            "id": 7,
+            "title": "No Time to Die",
+            "length_min": 163,
+            "director": "Cary Joji Fukunaga",
+            "genre": ["Action", "Adventure"],
+        },
+		{
+            "id": 8,
+            "title": "The Mitchells vs. the Machines",
+            "length_min": 113,
+            "director": "Michael Rianda",
+            "genre": ["Action", "Adventure Drama"],
+        },
+		{
+            "id": 9,
+            "title": "The French Dispatch",
+            "length_min": 103,
+            "director": "Wes Anderson",
+            "genre": ["Comedy Drama", "Drama"],
+        },
+		{
+            "id": 10,
+            "title": "CODA",
+            "length_min": 111,
+            "director": "Sian Heder",
+            "genre": ["Drama", "Family Drama"],
+        },
+    ]
+}
